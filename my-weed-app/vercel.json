@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/**/*.py": {
+      "includeFiles": "api/model/weed_binary_classifier_model.tflite"
+    }
+  }
+}
